@@ -1,0 +1,7 @@
+/.editorconfig
+/.gitattributes
+/symfony
+/vendor
+/web
+/initial/dbimported
+/.env
